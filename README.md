@@ -1,6 +1,6 @@
 !!!! For the mod to work, you need CrabDevKit, which must be placed in the plugins folder !!!!
 
-This mod shows the numbers of dead players even for the next round, it shows correctly (In TAB)
+This mod shows the numbers of dead players even for the next round, it shows sometimes incorrect (In TAB)
 
 
 CrabDevKit :
